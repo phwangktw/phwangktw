@@ -5,9 +5,11 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=phwangktw.phwangktw)](https://github.com/phwangktw) [![GitHub followers](https://img.shields.io/github/followers/phwangktw.svg?style=social&label=Follow)](https://github.com/phwangktw?tab=followers)
 
-I'm Pohan Wang 
-- <i>Currently:</i> ORIE Master Student at The University of Texas at Austin 
-- <i>Previously:</i> Process Engineer and ML/AI Engineer at Taiwan Semiconductor Manufacturing Company(TSMC).
+Hi, I'm Pohan Wang, and here is the overview of my experience:
+- **Future:** Incoming 2022 Summer intern as DRAM Quality Data Engineer at <u>Micron US</u>.
+- **Currently:** Operations Research and Industrial Engineering (ORIE) Master Student at <u>The University of Texas at Austin</u>. 
+- **Previously:** Process Engineer and ML/AI Engineer at <u>Taiwan Semiconductor Manufacturing Company(TSMC)</u>.
+- **Previous Academic Background:** <u>M.S. and B.S. degree in Chemical Engineering</u> in Taiwan.
 
 <h2>💻 Academic Learning</h2>
 
@@ -59,7 +61,7 @@ Prior to my study in the U.S., I obtained my B.S./M.S. degree in chemical engine
 Possessing the background spans from academic knowledge in quantitive, statistical mathematics to hands-on experiences in semiconductor production environment and programming skills, I'm eager to initiate a career as a Data Scientist/Data Analyst/Industrial Engineer or other similar job titles in semiconductor industries.
  
 - Check out my Blog: [Link](https://empty)
-- Write to me: [phwangk@utexas.edu](mailto:ConnectWith@laxmena.com)
+- Write to me: [phwangk@utexas.edu](mailto:phwangk@utexas.edu)
 
 <h2>📫 How to reach me:</h2>
 

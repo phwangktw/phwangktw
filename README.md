@@ -54,7 +54,7 @@ __Check out my GitHub repository:__
 
 <h2> About me⚡:</h2>
 
-I am currently pursuing my master’s degree in Operations Research and Industrial Engineering (ORIE) at UT-Austin. Besides the ORIE studies, I am also passionate about practical software development skills. I have experience in full-stack web development and know the core concepts of computer science such as data structure, internet, operating systems, object-oriented programming, and database management. 
+I am currently pursuing my PhD degree in Operations Research and Industrial Engineering (ORIE) at UT-Austin. Besides the ORIE studies, I am also passionate about practical software development skills. I have experience in full-stack web development and know the core concepts of computer science such as data structure, internet, operating systems, object-oriented programming, and database management. 
 
 Prior to my study in the U.S., I obtained my B.S./M.S. degree in chemical engineering in Taiwan and was continued serving as a process engineer in CMP module at TSMC for more than three years. 
 

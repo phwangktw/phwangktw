@@ -6,8 +6,9 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=phwangktw.phwangktw)](https://github.com/phwangktw) [![GitHub followers](https://img.shields.io/github/followers/phwangktw.svg?style=social&label=Follow)](https://github.com/phwangktw?tab=followers)
 
 Hi, I'm Pohan Wang, and here is the overview of my experience:
-- **Future:** Incoming 2022 Summer intern as DRAM Quality Data Engineer at <u>Micron US</u>.
-- **Currently:** Operations Research and Industrial Engineering (ORIE) Master Student at <u>The University of Texas at Austin</u>. 
+
+- **Currently:** Operations Research and Industrial Engineering (ORIE) Doctoral Student at <u>The University of Texas at Austin</u>. 
+- **Previously:** 2022 Summer intern as DRAM Quality Data Engineer at <u>Micron US</u>.
 - **Previously:** Process Engineer and ML/AI Engineer at <u>Taiwan Semiconductor Manufacturing Company(TSMC)</u>.
 - **Previous Academic Background:** <u>M.S. and B.S. degree in Chemical Engineering</u> in Taiwan.
 
